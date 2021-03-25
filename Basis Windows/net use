@@ -1,0 +1,2 @@
+net use *: /delete
+net use x: \\172.17.1.21\thor /user:admin Appel.Sap
